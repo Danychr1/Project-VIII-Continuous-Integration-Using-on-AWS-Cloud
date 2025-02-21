@@ -92,4 +92,4 @@ This project focuses on implementing Continuous Integration (CI) using AWS Cloud
 By implementing Continuous Integration on AWS, this project streamlines the development workflow, automates testing, and reduces operational overhead. The use of cloud-native services ensures scalability, efficiency, and rapid feedback for developers, leading to improved software quality and faster feature releases.
 
 
-Author 👨🏽‍💻: Dany Christel
+Author 👨🏽‍💻: Dany Christel 
