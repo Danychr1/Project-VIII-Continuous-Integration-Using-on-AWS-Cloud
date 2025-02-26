@@ -56,6 +56,7 @@ This project focuses on implementing Continuous Integration (CI) using AWS Cloud
 
 ## **Execution Flow**
 ### **1. Bitbucket Setup**
+https://bitbucket.org/cicdwithawsondevops/vprofile-project/src/main/
 - Create an account and repository in Bitbucket
 - Establish SSH authentication between the local machine and Bitbucket
 - Migrate the VProfile project source code from GitHub to Bitbucket
